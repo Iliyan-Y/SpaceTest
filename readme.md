@@ -27,3 +27,7 @@
 
 - Vite react app (client)
 - Nest.Js (backend)
+
+# Example WF
+
+![wf image](./wf.png)
