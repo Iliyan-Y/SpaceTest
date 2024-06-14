@@ -14,11 +14,12 @@
 
 - When you click on an image in the favourites page it will remove it.
 - Write at least one test
-  —----
-  Picture of the day endpoint https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
-  Random picture
-  https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=1
-  The DEMO_KEY LIMIT 50 pictures for a day !
+
+### Endpoints
+
+- Picture of the day endpoint https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+- Random picture https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=1
+- _The DEMO_KEY LIMIT **50** pictures for a day !_
 
 ---
 
